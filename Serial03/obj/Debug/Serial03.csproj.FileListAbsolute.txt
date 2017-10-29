@@ -1,0 +1,43 @@
+c:\users\di\documents\visual studio 2013\Projects\Serial03\Serial03\bin\Debug\Serial03.exe.config
+c:\users\di\documents\visual studio 2013\Projects\Serial03\Serial03\bin\Debug\Serial03.exe
+c:\users\di\documents\visual studio 2013\Projects\Serial03\Serial03\bin\Debug\Serial03.pdb
+c:\users\di\documents\visual studio 2013\Projects\Serial03\Serial03\obj\Debug\Serial03.Form1.resources
+c:\users\di\documents\visual studio 2013\Projects\Serial03\Serial03\obj\Debug\Serial03.Properties.Resources.resources
+c:\users\di\documents\visual studio 2013\Projects\Serial03\Serial03\obj\Debug\Serial03.csproj.GenerateResource.Cache
+c:\users\di\documents\visual studio 2013\Projects\Serial03\Serial03\obj\Debug\Serial03.exe
+c:\users\di\documents\visual studio 2013\Projects\Serial03\Serial03\obj\Debug\Serial03.pdb
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial04\Serial03\bin\Debug\Serial03.exe.config
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial04\Serial03\obj\Debug\Serial03.exe
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial04\Serial03\obj\Debug\Serial03.pdb
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial04\Serial03\bin\Debug\Serial03.exe
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial04\Serial03\bin\Debug\Serial03.pdb
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial04\Serial03\obj\Debug\Serial03.Form1.resources
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial04\Serial03\obj\Debug\Serial03.Properties.Resources.resources
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial04\Serial03\obj\Debug\Serial03.csproj.GenerateResource.Cache
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial04\Serial03\obj\Debug\Serial03.csprojResolveAssemblyReference.cache
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial05\Serial03\bin\Debug\Serial03.exe.config
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial05\Serial03\obj\Debug\Serial03.exe
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial05\Serial03\obj\Debug\Serial03.pdb
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial05\Serial03\bin\Debug\Serial03.exe
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial05\Serial03\bin\Debug\Serial03.pdb
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial05\Serial03\obj\Debug\Serial03.csprojResolveAssemblyReference.cache
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial05\Serial03\obj\Debug\Serial03.Form1.resources
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial05\Serial03\obj\Debug\Serial03.Properties.Resources.resources
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial05\Serial03\obj\Debug\Serial03.csproj.GenerateResource.Cache
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial06\Serial03\bin\Debug\Serial03.exe.config
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial06\Serial03\obj\Debug\Serial03.exe
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial06\Serial03\obj\Debug\Serial03.pdb
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial06\Serial03\bin\Debug\Serial03.exe
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial06\Serial03\bin\Debug\Serial03.pdb
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial06\Serial03\obj\Debug\Serial03.Form1.resources
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial06\Serial03\obj\Debug\Serial03.Properties.Resources.resources
+C:\Users\Di\Documents\Visual Studio 2013\Projects\Serial06\Serial03\obj\Debug\Serial03.csproj.GenerateResource.Cache
+C:\Users\Yi\Desktop\myhost\Serial06\Serial03\bin\Debug\Serial03.exe.config
+C:\Users\Yi\Desktop\myhost\Serial06\Serial03\obj\Debug\Serial03.exe
+C:\Users\Yi\Desktop\myhost\Serial06\Serial03\obj\Debug\Serial03.pdb
+C:\Users\Yi\Desktop\myhost\Serial06\Serial03\bin\Debug\Serial03.exe
+C:\Users\Yi\Desktop\myhost\Serial06\Serial03\bin\Debug\Serial03.pdb
+C:\Users\Yi\Desktop\myhost\Serial06\Serial03\obj\Debug\Serial03.Form1.resources
+C:\Users\Yi\Desktop\myhost\Serial06\Serial03\obj\Debug\Serial03.Properties.Resources.resources
+C:\Users\Yi\Desktop\myhost\Serial06\Serial03\obj\Debug\Serial03.csproj.GenerateResource.Cache
+C:\Users\Yi\Desktop\myhost\Serial06\Serial03\obj\Debug\Serial03.csprojResolveAssemblyReference.cache
